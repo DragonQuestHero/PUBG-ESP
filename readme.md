@@ -7,3 +7,11 @@
 是不是贼J8硬核的翻译?
 
 ##### 修仙群:546110133
+
+# 效果图
+
+<h1 align="center">
+	<img src="Effect.jpg" alt="">
+	<br>
+	<br>
+</h1>
