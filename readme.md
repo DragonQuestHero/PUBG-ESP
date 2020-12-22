@@ -10,7 +10,7 @@
 # 效果图
 
 <h1 align="center">
-	<img src="2.jpg" alt="">
+	<img src="2.png" alt="">
 	<br>
 	<br>
 </h1>
